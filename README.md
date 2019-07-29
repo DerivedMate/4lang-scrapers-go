@@ -13,4 +13,4 @@ The core library of golang contains most of the packages one will ever use. As a
 
 ## Cons :thumbsdown:
 ### Core Library
-Although the core library is indeed very useful, it also makes for enormous file sizes. Even though the source code is only 100 lines long, the compiled binary weighs **13.8MB**.
+Although the core library is indeed very useful, it also makes for enormous file sizes. Even though the source code is only 113 lines long, the compiled binary weighs **13.8MB**.
