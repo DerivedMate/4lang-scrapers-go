@@ -1,0 +1,14 @@
+#/bin/bash
+
+case "$1" in
+  "-b")
+    go build ./src/* 
+    ;;
+  "-r")
+    go run ./src/*
+    ;;
+  *)
+    echo "No args"
+    exit 1
+    ;;
+esac
